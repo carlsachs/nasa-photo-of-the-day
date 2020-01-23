@@ -9,6 +9,11 @@ function App() {
         app! Have fun 🚀!
       </p>
     </div>
+    <div className="whole">
+      <div className="card">
+        
+      </div>
+    </div>
   );
 }
 
